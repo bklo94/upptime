@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rutorrent",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "98.80%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
     "time": 917,
     "timeDay": 3563,
     "timeWeek": 917,
     "timeMonth": 917,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2021-12-14": 4
+      "2021-12-14": 50
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "q-bittorrent",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "98.84%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 2165,
     "timeDay": 12276,
     "timeWeek": 2165,
     "timeMonth": 2165,
     "timeYear": 2165,
     "dailyMinutesDown": {
-      "2021-12-14": 3
+      "2021-12-14": 49
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vn-stat",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "98.85%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 3672,
     "timeDay": 22987,
     "timeWeek": 3672,
     "timeMonth": 3672,
     "timeYear": 3672,
     "dailyMinutesDown": {
-      "2021-12-14": 2
+      "2021-12-14": 48
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portainer",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "98.87%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 4254,
     "timeDay": 26913,
     "timeWeek": 4254,
     "timeMonth": 4254,
     "timeYear": 4254,
     "dailyMinutesDown": {
-      "2021-12-14": 1
+      "2021-12-14": 47
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "$PLEX_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1322,
-    "timeDay": 7879,
-    "timeWeek": 1322,
-    "timeMonth": 1322,
-    "timeYear": 1322,
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
+    "time": 1739,
+    "timeDay": 6479,
+    "timeWeek": 1739,
+    "timeMonth": 1739,
+    "timeYear": 1739,
     "dailyMinutesDown": {
-      "2021-12-14": 1
+      "2021-12-14": 46
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "$TAUTULLI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tautulli",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1405,
-    "timeDay": 6198,
-    "timeWeek": 1405,
-    "timeMonth": 1405,
-    "timeYear": 1405,
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
+    "time": 1354,
+    "timeDay": 3599,
+    "timeWeek": 1354,
+    "timeMonth": 1354,
+    "timeYear": 1354,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 46
     }
   }
 ]
