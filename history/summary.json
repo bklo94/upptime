@@ -4,97 +4,107 @@
     "url": "$RUTORRENT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rutorrent",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 917,
     "timeDay": 3563,
     "timeWeek": 917,
     "timeMonth": 917,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 4
+    }
   },
   {
     "name": "qBittorrent",
     "url": "$QBITTORRENT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "q-bittorrent",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2165,
     "timeDay": 12276,
     "timeWeek": 2165,
     "timeMonth": 2165,
     "timeYear": 2165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 3
+    }
   },
   {
     "name": "VNStat",
     "url": "$VNSTAT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vn-stat",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 3672,
     "timeDay": 22987,
     "timeWeek": 3672,
     "timeMonth": 3672,
     "timeYear": 3672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 2
+    }
   },
   {
     "name": "Portainer",
     "url": "$PORTAINER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portainer",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 4254,
     "timeDay": 26913,
     "timeWeek": 4254,
     "timeMonth": 4254,
     "timeYear": 4254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 1
+    }
   },
   {
     "name": "Plex",
     "url": "$PLEX_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1322,
     "timeDay": 7879,
     "timeWeek": 1322,
     "timeMonth": 1322,
     "timeYear": 1322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 1
+    }
   },
   {
     "name": "Tautulli",
     "url": "$TAUTULLI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 1405,
     "timeMonth": 1405,
     "timeYear": 1405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   }
 ]
