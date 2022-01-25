@@ -15,6 +15,8 @@ sites:
     url: $PLEX_URL
   - name: Tautulli
     url: $TAUTULLI_URL
+  - name: Stash
+    url: $STASH_URL
 
 status-website:
   theme: night
