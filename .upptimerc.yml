@@ -3,8 +3,6 @@ owner: bklo94 # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: Rutorrent
-    url: $RUTORRENT_URL
   - name: qBittorrent
     url: $QBITTORRENT_URL
   - name: VNStat
@@ -13,10 +11,6 @@ sites:
     url: $PORTAINER_URL
   - name: Plex
     url: $PLEX_URL
-  - name: Tautulli
-    url: $TAUTULLI_URL
-  - name: Stash
-    url: $STASH_URL
 
 status-website:
   theme: night
