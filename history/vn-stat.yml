@@ -1,7 +1,7 @@
 url: $VNSTAT_URL
-status: up
-code: 200
-responseTime: 607
-lastUpdated: 2023-06-09T23:43:52.125Z
+status: down
+code: 502
+responseTime: 513
+lastUpdated: 2023-06-10T00:55:19.148Z
 startTime: Sat Dec 11 2021 23:48:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
