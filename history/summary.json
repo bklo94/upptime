@@ -6,13 +6,13 @@
     "slug": "q-bittorrent",
     "status": "up",
     "uptime": "92.46%",
-    "uptimeDay": "91.14%",
+    "uptimeDay": "92.69%",
     "uptimeWeek": "94.34%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "90.20%",
-    "time": 561,
-    "timeDay": 412,
-    "timeWeek": 422,
+    "time": 559,
+    "timeDay": 389,
+    "timeWeek": 419,
     "timeMonth": 417,
     "timeYear": 571,
     "dailyMinutesDown": {
@@ -120,8 +120,7 @@
       "2022-07-14": 128,
       "2022-07-11": 39,
       "2022-07-03": 675,
-      "2022-07-02": 312,
-      "2022-06-13": 827
+      "2022-07-02": 312
     }
   },
   {
@@ -131,13 +130,13 @@
     "slug": "vn-stat",
     "status": "up",
     "uptime": "91.61%",
-    "uptimeDay": "91.21%",
+    "uptimeDay": "92.72%",
     "uptimeWeek": "94.64%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "90.23%",
     "time": 774,
-    "timeDay": 584,
-    "timeWeek": 596,
+    "timeDay": 542,
+    "timeWeek": 593,
     "timeMonth": 574,
     "timeYear": 778,
     "dailyMinutesDown": {
@@ -241,8 +240,7 @@
       "2022-07-14": 128,
       "2022-07-11": 39,
       "2022-07-03": 674,
-      "2022-07-02": 311,
-      "2022-06-13": 826
+      "2022-07-02": 311
     }
   },
   {
@@ -252,14 +250,14 @@
     "slug": "portainer",
     "status": "up",
     "uptime": "91.91%",
-    "uptimeDay": "91.28%",
+    "uptimeDay": "92.76%",
     "uptimeWeek": "94.68%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "90.37%",
     "time": 531,
-    "timeDay": 532,
-    "timeWeek": 539,
-    "timeMonth": 516,
+    "timeDay": 497,
+    "timeWeek": 536,
+    "timeMonth": 515,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2023-06-12": 104,
@@ -362,8 +360,7 @@
       "2022-07-11": 38,
       "2022-07-03": 674,
       "2022-07-02": 311,
-      "2022-06-14": 36,
-      "2022-06-13": 920
+      "2022-06-14": 36
     }
   },
   {
@@ -373,14 +370,14 @@
     "slug": "plex",
     "status": "up",
     "uptime": "91.76%",
-    "uptimeDay": "91.35%",
+    "uptimeDay": "92.79%",
     "uptimeWeek": "94.45%",
     "uptimeMonth": "90.96%",
     "uptimeYear": "89.33%",
     "time": 552,
-    "timeDay": 537,
-    "timeWeek": 449,
-    "timeMonth": 440,
+    "timeDay": 512,
+    "timeWeek": 446,
+    "timeMonth": 441,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2023-06-12": 104,
@@ -488,8 +485,7 @@
       "2022-07-14": 1358,
       "2022-07-11": 38,
       "2022-07-03": 673,
-      "2022-07-02": 310,
-      "2022-06-13": 826
+      "2022-07-02": 310
     }
   }
 ]
