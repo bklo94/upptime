@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "q-bittorrent",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.86%",
     "time": 522,
-    "timeDay": 444,
-    "timeWeek": 465,
-    "timeMonth": 426,
+    "timeDay": 401,
+    "timeWeek": 460,
+    "timeMonth": 425,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2023-10-09": 41,
@@ -120,12 +120,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.02%",
+    "uptimeYear": "92.28%",
     "time": 695,
-    "timeDay": 605,
-    "timeWeek": 664,
-    "timeMonth": 598,
-    "timeYear": 679,
+    "timeDay": 578,
+    "timeWeek": 655,
+    "timeMonth": 596,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2023-10-09": 33,
       "2023-10-01": 64,
@@ -223,8 +223,7 @@
       "2022-11-21": 1440,
       "2022-11-20": 864,
       "2022-11-16": 254,
-      "2022-11-15": 517,
-      "2022-11-12": 818
+      "2022-11-15": 517
     }
   },
   {
@@ -237,11 +236,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.94%",
+    "uptimeYear": "92.20%",
     "time": 557,
-    "timeDay": 515,
-    "timeWeek": 586,
-    "timeMonth": 572,
+    "timeDay": 484,
+    "timeWeek": 575,
+    "timeMonth": 569,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2023-10-09": 18,
@@ -339,8 +338,7 @@
       "2022-11-21": 1440,
       "2022-11-20": 863,
       "2022-11-16": 253,
-      "2022-11-15": 517,
-      "2022-11-12": 818
+      "2022-11-15": 517
     }
   },
   {
@@ -349,14 +347,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "91.28%",
+    "uptimeYear": "91.54%",
     "time": 499,
-    "timeDay": 450,
-    "timeWeek": 464,
+    "timeDay": 410,
+    "timeWeek": 463,
     "timeMonth": 447,
     "timeYear": 503,
     "dailyMinutesDown": {
@@ -458,8 +456,7 @@
       "2022-11-21": 1440,
       "2022-11-20": 863,
       "2022-11-16": 253,
-      "2022-11-15": 516,
-      "2022-11-12": 817
+      "2022-11-15": 516
     }
   }
 ]
